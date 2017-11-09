@@ -2,7 +2,7 @@
 implementation of shannon entropy
 
 code:
-```
+```javascript
 function(shannon) {
 'use strict';
 
